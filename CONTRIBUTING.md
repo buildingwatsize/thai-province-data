@@ -93,7 +93,9 @@ Closes #29
 - กระทบกับ Data format ที่อิงรหัสอำเภอและตำบล
 ```
 
-ตัวอย่าง: [PR #34](https://github.com/kongvut/thai-province-data/pull/34)
+ตัวอย่าง: 
+- [PR #34](https://github.com/kongvut/thai-province-data/pull/34)
+- [PR #36](https://github.com/kongvut/thai-province-data/pull/36)
 
 ---
 
